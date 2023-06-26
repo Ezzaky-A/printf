@@ -1,4 +1,4 @@
-#include "main.h"
+include "main.h"
 /**
  * buffer - defines a local buffer of 1024 chars
  * @s: buffer
